@@ -2,33 +2,36 @@
 ## Size changes with '#'
 ### `backquotes to highlight`
 
-~
+`~`
 
-cd
+`cd`
 
-pwd
+`pwd`
 
-ls
+`ls`
 -l
 -a
 -la
 
-mkdir
+`mkdir`
 
-touch
+`touch`
 
-mv
+`mv`
 
-cp
+`cp`
 
-rm
+`rm`
 -r
 -rf + tilde (dont break the mac please)
 
-git init
+`git init`
 
-git status
+`git status`
 
-git add
+`git add`
 
-git commit -m"present tense step taken"
+`git commit -m"present tense step taken"`
+
+`git add .`
+git commit -a
