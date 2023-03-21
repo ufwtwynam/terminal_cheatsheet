@@ -2,36 +2,37 @@
 ## Size changes with '#'
 ### `backquotes to highlight`
 
-`~`
+`~` home directory
 
-`cd`
+`cd` change directory
 
-`pwd`
+`pwd` print working directory
 
-`ls`
--l
--a
--la
+`ls` list
+#### -l more detailed list
+#### -a all (. infront of files means its hidden)
+#### -la combined
 
-`mkdir`
+`mkdir` make directory (folder)
 
-`touch`
+`touch` make file
 
-`mv`
+`mv` move
 
-`cp`
+`cp` copy
 
-`rm`
--r
+`rm` remove
+-r (rm my_directory will state it's a directory, you
+need to do rm -r my_directory)
+
 -rf + tilde (dont break the mac please)
 
-`git init`
+`git init` initialise git repository
 
-`git status`
+`git status` check if changes are staged for commit or not
 
-`git add`
+`git add` add file
 
-`git commit -m"present tense step taken"`
+`git commit -m"present tense step taken"` commit message
 
-`git add .`
-git commit -a
+`git add . or git commit -a` commit file
