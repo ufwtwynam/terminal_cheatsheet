@@ -48,3 +48,5 @@ need to do rm -r my_directory), -f bypasses confirmation
 `git remote add origin your/url/here` link local repository to GitHub (origin is primary remote, add is to make new link)
 
 `git push origin main` upload from one to the other (main branch)
+
+"not sure why last two commands havent saved on hub even after committing and refreshing"
