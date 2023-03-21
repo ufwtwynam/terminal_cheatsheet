@@ -52,3 +52,6 @@ need to do rm -r my_directory), -f bypasses confirmation
 `git clone repository/url/here` allows others to get a copy, do not clone a repository inside another one
 
 `git pull origin main` download changes from others if they upload to the repository
+
+# .gitignore
+specifies intentionally untracked files to be ignored
