@@ -49,4 +49,6 @@ need to do rm -r my_directory), -f bypasses confirmation
 
 `git push origin main` upload from one to the other (main branch)
 
-"not sure why last two commands havent saved on hub even after committing and refreshing"
+`git clone repository/url/here` allows others to get a copy, do not clone a repository inside another one
+
+`git pull origin main` download changes from others if they upload to the repository
