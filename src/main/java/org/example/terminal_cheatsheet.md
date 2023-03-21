@@ -35,4 +35,12 @@ need to do rm -r my_directory)
 
 `git commit -m"present tense step taken"` commit message
 
-`git add . or git commit -a` commit file
+`git add . or git commit -a` stage all changes in current directory
+
+`git log` history of edits in repository
+
+`git revert` undo a specific commit (ID of commit from log)
+
+`git reset` undoes everything since a given commit
+
+`git rebase` reverses commits and removes from history
