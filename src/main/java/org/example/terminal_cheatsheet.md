@@ -23,7 +23,7 @@
 
 `rm` remove
 -r (rm my_directory will state it's a directory, you
-need to do rm -r my_directory)
+need to do rm -r my_directory), -f bypasses confirmation
 
 -rf + tilde (dont break the mac please)
 
@@ -44,3 +44,7 @@ need to do rm -r my_directory)
 `git reset` undoes everything since a given commit
 
 `git rebase` reverses commits and removes from history
+
+`git remote add origin your/url/here` link local repository to GitHub (origin is primary remote, add is to make new link)
+
+`git push origin main` upload from one to the other (main branch)
