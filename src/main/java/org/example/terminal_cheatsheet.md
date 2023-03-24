@@ -54,5 +54,7 @@ need to do rm -r my_directory), -f bypasses confirmation
 `git pull origin main` download changes from others if they upload to the repository
 
 # .gitignore
+
 specifies intentionally untracked files to be ignored
 .gitignore should be done at the start, even before git init
+files should be ignored or tracked
