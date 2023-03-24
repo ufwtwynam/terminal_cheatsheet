@@ -55,3 +55,4 @@ need to do rm -r my_directory), -f bypasses confirmation
 
 # .gitignore
 specifies intentionally untracked files to be ignored
+.gitignore should be done at the start, even before git init
