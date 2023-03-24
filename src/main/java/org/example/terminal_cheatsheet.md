@@ -47,7 +47,7 @@ need to do rm -r my_directory), -f bypasses confirmation
 
 `git remote add origin your/url/here` link local repository to GitHub (origin is primary remote, add is to make new link)
 
-`git push origin main` upload from one to the other (main branch)
+`git push origin main` upload from one to the other (main branch), git push -u origin main, so that if working locally afterwards just git push will work
 
 `git clone repository/url/here` allows others to get a copy, do not clone a repository inside another one
 
